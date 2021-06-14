@@ -1,0 +1,4 @@
+name: Zipper
+version: @version@
+main: zipper.zipper.Zipper
+api-version: 1.16
